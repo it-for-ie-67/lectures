@@ -1,0 +1,465 @@
+{
+  "rootFolderId": "1555096605-844424930638205",
+  "fileMap": {
+    "1555096605-31806672368331468": {
+      "id": "1555096605-31806672368331468",
+      "name": ".git",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-1125899908819235",
+        "1555096605-844424932108542",
+        "1555096605-1688849862240553",
+        "1555096605-562949955397887",
+        "1555096605-562949955397902",
+        "1555096605-562949955397930",
+        "1555096605-1970324838951184"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git",
+      "parentId": "1555096605-844424930638205"
+    },
+    "1555096605-844424930638205": {
+      "id": "1555096605-844424930638205",
+      "name": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-31806672368331468",
+        "1555096605-1688849862240562",
+        "1555096605-13229323905437768",
+        "1555096605-844424930638206"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public"
+    },
+    "1555096605-1125899908819235": {
+      "id": "1555096605-1125899908819235",
+      "name": "config",
+      "parentId": "1555096605-31806672368331468",
+      "size": 130,
+      "modDate": "2024-06-16T01:40:53.977Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\config"
+    },
+    "1555096605-844424932108542": {
+      "id": "1555096605-844424932108542",
+      "name": "description",
+      "parentId": "1555096605-31806672368331468",
+      "size": 73,
+      "modDate": "2024-06-16T01:40:53.964Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\description"
+    },
+    "1555096605-1688849862240553": {
+      "id": "1555096605-1688849862240553",
+      "name": "HEAD",
+      "parentId": "1555096605-31806672368331468",
+      "size": 23,
+      "modDate": "2024-06-16T01:40:53.978Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\HEAD"
+    },
+    "1555096605-562949955397887": {
+      "id": "1555096605-562949955397887",
+      "name": "hooks",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-562949955397888",
+        "1555096605-562949955397889",
+        "1555096605-562949955397890",
+        "1555096605-562949955397891",
+        "1555096605-562949955397892",
+        "1555096605-562949955397893",
+        "1555096605-562949955397894",
+        "1555096605-562949955397895",
+        "1555096605-562949955397896",
+        "1555096605-844424932108553",
+        "1555096605-3377699722504458",
+        "1555096605-844424932108555",
+        "1555096605-844424932108556",
+        "1555096605-562949955397901"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks",
+      "parentId": "1555096605-31806672368331468"
+    },
+    "1555096605-562949955397888": {
+      "id": "1555096605-562949955397888",
+      "name": "applypatch-msg.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 478,
+      "modDate": "2024-06-16T01:40:53.965Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\applypatch-msg.sample"
+    },
+    "1555096605-562949955397889": {
+      "id": "1555096605-562949955397889",
+      "name": "commit-msg.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 896,
+      "modDate": "2024-06-16T01:40:53.966Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\commit-msg.sample"
+    },
+    "1555096605-562949955397890": {
+      "id": "1555096605-562949955397890",
+      "name": "fsmonitor-watchman.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 4726,
+      "modDate": "2024-06-16T01:40:53.966Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\fsmonitor-watchman.sample"
+    },
+    "1555096605-562949955397891": {
+      "id": "1555096605-562949955397891",
+      "name": "post-update.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 189,
+      "modDate": "2024-06-16T01:40:53.967Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\post-update.sample"
+    },
+    "1555096605-562949955397892": {
+      "id": "1555096605-562949955397892",
+      "name": "pre-applypatch.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 424,
+      "modDate": "2024-06-16T01:40:53.967Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\pre-applypatch.sample"
+    },
+    "1555096605-562949955397893": {
+      "id": "1555096605-562949955397893",
+      "name": "pre-commit.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 1649,
+      "modDate": "2024-06-16T01:40:53.968Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\pre-commit.sample"
+    },
+    "1555096605-562949955397894": {
+      "id": "1555096605-562949955397894",
+      "name": "pre-merge-commit.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 416,
+      "modDate": "2024-06-16T01:40:53.968Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\pre-merge-commit.sample"
+    },
+    "1555096605-562949955397895": {
+      "id": "1555096605-562949955397895",
+      "name": "pre-push.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 1374,
+      "modDate": "2024-06-16T01:40:53.968Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\pre-push.sample"
+    },
+    "1555096605-562949955397896": {
+      "id": "1555096605-562949955397896",
+      "name": "pre-rebase.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 4898,
+      "modDate": "2024-06-16T01:40:53.969Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\pre-rebase.sample"
+    },
+    "1555096605-844424932108553": {
+      "id": "1555096605-844424932108553",
+      "name": "pre-receive.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 544,
+      "modDate": "2024-06-16T01:40:53.969Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\pre-receive.sample"
+    },
+    "1555096605-3377699722504458": {
+      "id": "1555096605-3377699722504458",
+      "name": "prepare-commit-msg.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 1492,
+      "modDate": "2024-06-16T01:40:53.970Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\prepare-commit-msg.sample"
+    },
+    "1555096605-844424932108555": {
+      "id": "1555096605-844424932108555",
+      "name": "push-to-checkout.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 2783,
+      "modDate": "2024-06-16T01:40:53.970Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\push-to-checkout.sample"
+    },
+    "1555096605-844424932108556": {
+      "id": "1555096605-844424932108556",
+      "name": "sendemail-validate.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 2308,
+      "modDate": "2024-06-16T01:40:53.970Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\sendemail-validate.sample"
+    },
+    "1555096605-562949955397901": {
+      "id": "1555096605-562949955397901",
+      "name": "update.sample",
+      "parentId": "1555096605-562949955397887",
+      "size": 3650,
+      "modDate": "2024-06-16T01:40:53.971Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\hooks\\update.sample"
+    },
+    "1555096605-562949955397902": {
+      "id": "1555096605-562949955397902",
+      "name": "info",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-844424932108559"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\info",
+      "parentId": "1555096605-31806672368331468"
+    },
+    "1555096605-844424932108559": {
+      "id": "1555096605-844424932108559",
+      "name": "exclude",
+      "parentId": "1555096605-562949955397902",
+      "size": 240,
+      "modDate": "2024-06-16T01:40:53.971Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\info\\exclude"
+    },
+    "1555096605-562949955397930": {
+      "id": "1555096605-562949955397930",
+      "name": "objects",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-281474978687277",
+        "1555096605-562949955397931"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\objects",
+      "parentId": "1555096605-31806672368331468"
+    },
+    "1555096605-281474978687277": {
+      "id": "1555096605-281474978687277",
+      "name": "info",
+      "isDir": true,
+      "childrenIds": [],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\objects\\info",
+      "parentId": "1555096605-562949955397930"
+    },
+    "1555096605-562949955397931": {
+      "id": "1555096605-562949955397931",
+      "name": "pack",
+      "isDir": true,
+      "childrenIds": [],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\objects\\pack",
+      "parentId": "1555096605-562949955397930"
+    },
+    "1555096605-1970324838951184": {
+      "id": "1555096605-1970324838951184",
+      "name": "refs",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-562949955397927",
+        "1555096605-562949955397928"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\refs",
+      "parentId": "1555096605-31806672368331468"
+    },
+    "1555096605-562949955397927": {
+      "id": "1555096605-562949955397927",
+      "name": "heads",
+      "isDir": true,
+      "childrenIds": [],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\refs\\heads",
+      "parentId": "1555096605-1970324838951184"
+    },
+    "1555096605-562949955397928": {
+      "id": "1555096605-562949955397928",
+      "name": "tags",
+      "isDir": true,
+      "childrenIds": [],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\.git\\refs\\tags",
+      "parentId": "1555096605-1970324838951184"
+    },
+    "1555096605-1688849862240562": {
+      "id": "1555096605-1688849862240562",
+      "name": "filemap",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-281474978687297"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\filemap",
+      "parentId": "1555096605-844424930638205"
+    },
+    "1555096605-281474978687297": {
+      "id": "1555096605-281474978687297",
+      "name": "filemap.json",
+      "parentId": "1555096605-1688849862240562",
+      "size": 18036,
+      "modDate": "2024-06-16T01:41:49.821Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\filemap\\filemap.json"
+    },
+    "1555096605-13229323905437768": {
+      "id": "1555096605-13229323905437768",
+      "name": "lectures",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-3096224743861642",
+        "1555096605-5910974511563928"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures",
+      "parentId": "1555096605-844424930638205"
+    },
+    "1555096605-3096224743861642": {
+      "id": "1555096605-3096224743861642",
+      "name": "T01 - Introduction",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-44754521297110990",
+        "1555096605-25614222880768470",
+        "1555096605-2251799813785038",
+        "1555096605-10696049115107120"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction",
+      "parentId": "1555096605-13229323905437768"
+    },
+    "1555096605-44754521297110990": {
+      "id": "1555096605-44754521297110990",
+      "name": "img",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-3377699720731908",
+        "1555096605-4222124650863883",
+        "1555096605-12947848928920844",
+        "1555096605-7881299348179179",
+        "1555096605-13229323906003208",
+        "1555096605-5910974511563896"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img",
+      "parentId": "1555096605-3096224743861642"
+    },
+    "1555096605-3377699720731908": {
+      "id": "1555096605-3377699720731908",
+      "name": "firebase.png",
+      "parentId": "1555096605-44754521297110990",
+      "size": 4601,
+      "modDate": "2024-06-16T01:09:44.992Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img\\firebase.png"
+    },
+    "1555096605-4222124650863883": {
+      "id": "1555096605-4222124650863883",
+      "name": "Front-end-vs-back-end.jpg",
+      "parentId": "1555096605-44754521297110990",
+      "size": 98314,
+      "modDate": "2024-06-16T01:09:44.992Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img\\Front-end-vs-back-end.jpg"
+    },
+    "1555096605-12947848928920844": {
+      "id": "1555096605-12947848928920844",
+      "name": "htmlcssjs.png",
+      "parentId": "1555096605-44754521297110990",
+      "size": 18267,
+      "modDate": "2024-06-16T01:09:44.992Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img\\htmlcssjs.png"
+    },
+    "1555096605-7881299348179179": {
+      "id": "1555096605-7881299348179179",
+      "name": "programmer.jpg",
+      "parentId": "1555096605-44754521297110990",
+      "size": 46751,
+      "modDate": "2024-06-16T01:09:44.993Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img\\programmer.jpg"
+    },
+    "1555096605-13229323906003208": {
+      "id": "1555096605-13229323906003208",
+      "name": "softwaredesktop.png",
+      "parentId": "1555096605-44754521297110990",
+      "size": 445862,
+      "modDate": "2024-06-16T01:09:44.997Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img\\softwaredesktop.png"
+    },
+    "1555096605-5910974511563896": {
+      "id": "1555096605-5910974511563896",
+      "name": "vscode.png",
+      "parentId": "1555096605-44754521297110990",
+      "size": 130561,
+      "modDate": "2024-06-16T01:09:44.998Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img\\vscode.png"
+    },
+    "1555096605-25614222880768470": {
+      "id": "1555096605-25614222880768470",
+      "name": "T01.html",
+      "parentId": "1555096605-3096224743861642",
+      "size": 112050,
+      "modDate": "2024-06-16T02:10:21.393Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\T01.html"
+    },
+    "1555096605-2251799813785038": {
+      "id": "1555096605-2251799813785038",
+      "name": "T01.md",
+      "parentId": "1555096605-3096224743861642",
+      "size": 3359,
+      "modDate": "2024-06-16T02:07:08.342Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\T01.md"
+    },
+    "1555096605-10696049115107120": {
+      "id": "1555096605-10696049115107120",
+      "name": "T01.pdf",
+      "parentId": "1555096605-3096224743861642",
+      "size": 919645,
+      "modDate": "2024-06-16T02:10:28.786Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\T01.pdf"
+    },
+    "1555096605-5910974511563928": {
+      "id": "1555096605-5910974511563928",
+      "name": "T02 - HTML",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-12947848930125596",
+        "1555096605-2814749768381923",
+        "1555096605-8444249302755041",
+        "1555096605-43910096368297760"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML",
+      "parentId": "1555096605-13229323905437768"
+    },
+    "1555096605-12947848930125596": {
+      "id": "1555096605-12947848930125596",
+      "name": "img",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-10977524093151006",
+        "1555096605-3940649675384616"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML\\img",
+      "parentId": "1555096605-5910974511563928"
+    },
+    "1555096605-10977524093151006": {
+      "id": "1555096605-10977524093151006",
+      "name": "attribute.png",
+      "parentId": "1555096605-12947848930125596",
+      "size": 8048,
+      "modDate": "2024-06-16T01:09:45.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML\\img\\attribute.png"
+    },
+    "1555096605-3940649675384616": {
+      "id": "1555096605-3940649675384616",
+      "name": "htmltag.png",
+      "parentId": "1555096605-12947848930125596",
+      "size": 8330,
+      "modDate": "2024-06-16T01:09:45.001Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML\\img\\htmltag.png"
+    },
+    "1555096605-2814749768381923": {
+      "id": "1555096605-2814749768381923",
+      "name": "T02.html",
+      "parentId": "1555096605-5910974511563928",
+      "size": 116730,
+      "modDate": "2024-06-16T01:09:44.998Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML\\T02.html"
+    },
+    "1555096605-8444249302755041": {
+      "id": "1555096605-8444249302755041",
+      "name": "T02.md",
+      "parentId": "1555096605-5910974511563928",
+      "size": 3862,
+      "modDate": "2024-06-16T01:09:44.999Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML\\T02.md"
+    },
+    "1555096605-43910096368297760": {
+      "id": "1555096605-43910096368297760",
+      "name": "T02.pdf",
+      "parentId": "1555096605-5910974511563928",
+      "size": 140018,
+      "modDate": "2024-06-16T01:09:45.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML\\T02.pdf"
+    },
+    "1555096605-844424930638206": {
+      "id": "1555096605-844424930638206",
+      "name": "vite.svg",
+      "parentId": "1555096605-844424930638205",
+      "size": 1497,
+      "modDate": "2024-06-16T01:13:35.056Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\vite.svg"
+    }
+  }
+}
