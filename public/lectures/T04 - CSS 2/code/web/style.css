@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap");
+
+:root {
+  --main-bg-color: rgb(216, 210, 210);
+}
+
+body {
+  border: 2px solid black;
+  margin: 5em auto;
+  padding: 4em;
+  width: 50%;
+  font-size: 1.5rem;
+  font-weight: 300;
+  font-family: Chakra Petch, sans-serif;
+  background-color: var(--main-bg-color);
+}
+
+.food {
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+}
+
+.item {
+  background-color: red;
+  border: 1px solid black;
+  flex: 1;
+  flex-basis: 20rem;
+}
+
+#item-2 {
+  flex: 3;
+}
