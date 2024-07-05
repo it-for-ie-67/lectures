@@ -10,14 +10,14 @@
 # npm run html $folder
 # npm run pdf $folder
 
-# $folder = "public\lectures\T07 - DOM"
+$folder = "public\lectures\T07 - DOM"
+npm run html $folder
+npm run pdf $folder
+
+# $folder = "public\lectures\T08 - React"
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T08 - React"
-npm run html $folder
-npm run pdf $folder
-
-$folder = "public\lectures\T09 - React Basics"
-npm run html $folder
-npm run pdf $folder
+# $folder = "public\lectures\T09 - React Basics"
+# npm run html $folder
+# npm run pdf $folder
