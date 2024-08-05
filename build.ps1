@@ -22,6 +22,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T10 - Data Fetching"
+# $folder = "public\lectures\T10 - Data Fetching"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "public\lectures\T11 - Database"
 npm run html $folder
 npm run pdf $folder
