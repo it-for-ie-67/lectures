@@ -26,8 +26,8 @@
       "id": "1760289687-4222124650910659",
       "name": "filemap.json",
       "parentId": "1760289687-3096224744442852",
-      "size": 33620,
-      "modDate": "2024-08-05T03:29:36.033Z",
+      "size": 39018,
+      "modDate": "2024-09-11T08:23:54.480Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\filemap\\filemap.json"
     },
     "1760289687-3377699721153531": {
@@ -45,7 +45,9 @@
         "1760289687-1125899907161311",
         "1760289687-3377699720778886",
         "1760289687-7599824371440610",
-        "1760289687-21110623253455484"
+        "1760289687-21110623253455484",
+        "1760289687-12384898975473832",
+        "1760289687-31243722415064620"
       ],
       "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures",
       "parentId": "1760289687-4222124651285366"
@@ -853,6 +855,106 @@
       "size": 111605,
       "modDate": "2024-08-05T03:35:02.333Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures\\T11 - Database\\T11.pdf"
+    },
+    "1760289687-12384898975473832": {
+      "id": "1760289687-12384898975473832",
+      "name": "T12 - Intro to AI",
+      "isDir": true,
+      "childrenIds": [
+        "1760289687-59954170040209016",
+        "1760289687-9851624185799040"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures\\T12 - Intro to AI",
+      "parentId": "1760289687-3377699721153531"
+    },
+    "1760289687-59954170040209016": {
+      "id": "1760289687-59954170040209016",
+      "name": "Intro to AI.pdf",
+      "parentId": "1760289687-12384898975473832",
+      "size": 1694804,
+      "modDate": "2023-09-11T02:02:52.830Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures\\T12 - Intro to AI\\Intro to AI.pdf"
+    },
+    "1760289687-9851624185799040": {
+      "id": "1760289687-9851624185799040",
+      "name": "Intro to AI.pptx",
+      "parentId": "1760289687-12384898975473832",
+      "size": 4354962,
+      "modDate": "2023-09-11T02:02:52.850Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures\\T12 - Intro to AI\\Intro to AI.pptx"
+    },
+    "1760289687-31243722415064620": {
+      "id": "1760289687-31243722415064620",
+      "name": "T13 - Tensorflow",
+      "isDir": true,
+      "childrenIds": [
+        "1760289687-8725724278956541",
+        "1760289687-6473924465271294",
+        "1760289687-6755399441981966",
+        "1760289687-7318349395403282",
+        "1760289687-7036874418692628"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures\\T13 - Tensorflow",
+      "parentId": "1760289687-3377699721153531"
+    },
+    "1760289687-8725724278956541": {
+      "id": "1760289687-8725724278956541",
+      "name": "data_nonlinear.xlsx",
+      "parentId": "1760289687-31243722415064620",
+      "size": 6416,
+      "modDate": "2023-09-11T02:02:52.852Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures\\T13 - Tensorflow\\data_nonlinear.xlsx"
+    },
+    "1760289687-6473924465271294": {
+      "id": "1760289687-6473924465271294",
+      "name": "img",
+      "isDir": true,
+      "childrenIds": [
+        "1760289687-7599824372113922",
+        "1760289687-5348024558428677"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures\\T13 - Tensorflow\\img",
+      "parentId": "1760289687-31243722415064620"
+    },
+    "1760289687-7599824372113922": {
+      "id": "1760289687-7599824372113922",
+      "name": "model_folder.jpg",
+      "parentId": "1760289687-6473924465271294",
+      "size": 24556,
+      "modDate": "2023-09-11T02:02:52.853Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures\\T13 - Tensorflow\\img\\model_folder.jpg"
+    },
+    "1760289687-5348024558428677": {
+      "id": "1760289687-5348024558428677",
+      "name": "overview.png",
+      "parentId": "1760289687-6473924465271294",
+      "size": 593154,
+      "modDate": "2023-09-11T02:02:52.856Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures\\T13 - Tensorflow\\img\\overview.png"
+    },
+    "1760289687-6755399441981966": {
+      "id": "1760289687-6755399441981966",
+      "name": "T13.html",
+      "parentId": "1760289687-31243722415064620",
+      "size": 109756,
+      "modDate": "2024-09-11T08:24:57.762Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures\\T13 - Tensorflow\\T13.html"
+    },
+    "1760289687-7318349395403282": {
+      "id": "1760289687-7318349395403282",
+      "name": "T13.md",
+      "parentId": "1760289687-31243722415064620",
+      "size": 2314,
+      "modDate": "2023-09-11T02:02:52.851Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures\\T13 - Tensorflow\\T13.md"
+    },
+    "1760289687-7036874418692628": {
+      "id": "1760289687-7036874418692628",
+      "name": "T13.pdf",
+      "parentId": "1760289687-31243722415064620",
+      "size": 484300,
+      "modDate": "2024-09-11T08:25:01.499Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-67\\lectures\\public\\lectures\\T13 - Tensorflow\\T13.pdf"
     },
     "1760289687-4222124651285895": {
       "id": "1760289687-4222124651285895",
