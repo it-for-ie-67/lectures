@@ -30,6 +30,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T13 - Tensorflow"
+# $folder = "public\lectures\T13 - Tensorflow"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "public\lectures\T14 - Image Classification"
 npm run html $folder
 npm run pdf $folder
