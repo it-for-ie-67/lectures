@@ -34,6 +34,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T14 - Image Classification"
+# $folder = "public\lectures\T14 - Image Classification"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "public\lectures\T15 - LLM"
 npm run html $folder
 npm run pdf $folder

@@ -26,8 +26,8 @@
       "id": "1555096605-1688849860363088",
       "name": "filemap.json",
       "parentId": "1555096605-1688849862240562",
-      "size": 39985,
-      "modDate": "2024-09-18T23:54:24.663Z",
+      "size": 42618,
+      "modDate": "2024-09-19T00:05:01.887Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\filemap\\filemap.json"
     },
     "1555096605-13229323905437768": {
@@ -48,7 +48,8 @@
         "1555096605-3096224745693978",
         "1555096605-93449692269814600",
         "1555096605-8444249303196489",
-        "1555096605-4222124651178975"
+        "1555096605-4222124651178975",
+        "1555096605-18577348463099188"
       ],
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures",
       "parentId": "1555096605-844424930638205"
@@ -975,44 +976,44 @@
       "name": "img",
       "isDir": true,
       "childrenIds": [
-        "1555096605-3940649675826427",
-        "1555096605-3659174699115774",
-        "1555096605-2814749768983809",
-        "1555096605-6473924466222338"
+        "1555096605-141863388262329280",
+        "1555096605-41658296553335750",
+        "1555096605-13229323905559576",
+        "1555096605-8444249301478443"
       ],
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T14 - Image Classification\\img",
       "parentId": "1555096605-4222124651178975"
     },
-    "1555096605-3940649675826427": {
-      "id": "1555096605-3940649675826427",
+    "1555096605-141863388262329280": {
+      "id": "1555096605-141863388262329280",
       "name": "conv.jpg",
       "parentId": "1555096605-36310271997551820",
       "size": 98712,
-      "modDate": "2024-06-16T01:09:45.105Z",
+      "modDate": "2024-09-23T22:41:07.045Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T14 - Image Classification\\img\\conv.jpg"
     },
-    "1555096605-3659174699115774": {
-      "id": "1555096605-3659174699115774",
+    "1555096605-41658296553335750": {
+      "id": "1555096605-41658296553335750",
       "name": "imagenet_error.jpg",
       "parentId": "1555096605-36310271997551820",
       "size": 168511,
-      "modDate": "2024-06-16T01:09:45.106Z",
+      "modDate": "2024-09-23T22:41:11.037Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T14 - Image Classification\\img\\imagenet_error.jpg"
     },
-    "1555096605-2814749768983809": {
-      "id": "1555096605-2814749768983809",
+    "1555096605-13229323905559576": {
+      "id": "1555096605-13229323905559576",
       "name": "imagenet_pics.png",
       "parentId": "1555096605-36310271997551820",
       "size": 13206234,
-      "modDate": "2024-06-16T01:09:45.147Z",
+      "modDate": "2024-09-23T22:41:13.300Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T14 - Image Classification\\img\\imagenet_pics.png"
     },
-    "1555096605-6473924466222338": {
-      "id": "1555096605-6473924466222338",
+    "1555096605-8444249301478443": {
+      "id": "1555096605-8444249301478443",
       "name": "mobilenet.png",
       "parentId": "1555096605-36310271997551820",
       "size": 100916,
-      "modDate": "2024-06-16T01:09:45.149Z",
+      "modDate": "2024-09-23T22:41:15.663Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T14 - Image Classification\\img\\mobilenet.png"
     },
     "1555096605-14636698790426940": {
@@ -1038,6 +1039,61 @@
       "size": 7171915,
       "modDate": "2024-09-19T00:04:51.324Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T14 - Image Classification\\T14.pdf"
+    },
+    "1555096605-18577348463099188": {
+      "id": "1555096605-18577348463099188",
+      "name": "T15 - LLM",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-20266198323383300",
+        "1555096605-8444249302818978",
+        "1555096605-5910974511214147",
+        "1555096605-119063915148639700"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T15 - LLM",
+      "parentId": "1555096605-13229323905437768"
+    },
+    "1555096605-20266198323383300": {
+      "id": "1555096605-20266198323383300",
+      "name": "img",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-24206847997274936"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T15 - LLM\\img",
+      "parentId": "1555096605-18577348463099188"
+    },
+    "1555096605-24206847997274936": {
+      "id": "1555096605-24206847997274936",
+      "name": "history.png",
+      "parentId": "1555096605-20266198323383300",
+      "size": 342359,
+      "modDate": "2024-09-23T22:40:30.297Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T15 - LLM\\img\\history.png"
+    },
+    "1555096605-8444249302818978": {
+      "id": "1555096605-8444249302818978",
+      "name": "T15.html",
+      "parentId": "1555096605-18577348463099188",
+      "size": 104138,
+      "modDate": "2024-09-23T22:55:53.022Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T15 - LLM\\T15.html"
+    },
+    "1555096605-5910974511214147": {
+      "id": "1555096605-5910974511214147",
+      "name": "T15.md",
+      "parentId": "1555096605-18577348463099188",
+      "size": 2661,
+      "modDate": "2024-09-23T22:55:11.751Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T15 - LLM\\T15.md"
+    },
+    "1555096605-119063915148639700": {
+      "id": "1555096605-119063915148639700",
+      "name": "T15.pdf",
+      "parentId": "1555096605-18577348463099188",
+      "size": 401691,
+      "modDate": "2024-09-23T22:55:56.943Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie\\lectures\\public\\lectures\\T15 - LLM\\T15.pdf"
     },
     "1555096605-844424930638206": {
       "id": "1555096605-844424930638206",
