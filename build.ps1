@@ -46,6 +46,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T17 - Smart Contract"
+# $folder = "public\lectures\T17 - Smart Contract"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "public\lectures\T18 - SC Applications"
 npm run html $folder
 npm run pdf $folder
