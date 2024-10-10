@@ -50,6 +50,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T18 - SC Applications"
+# $folder = "public\lectures\T18 - SC Applications"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "public\lectures\T19 - DApp"
 npm run html $folder
 npm run pdf $folder
